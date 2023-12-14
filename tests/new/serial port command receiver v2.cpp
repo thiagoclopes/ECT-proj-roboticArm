@@ -1,6 +1,6 @@
 #include <VarSpeedServo.h>
 
-#define h_speed 15
+#define h_speed 14
 #define g_speed 45
 #define b_speed 30
 #define garra_pin 2
